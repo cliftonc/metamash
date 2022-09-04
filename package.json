@@ -7,7 +7,8 @@
   "scripts": {
     "dev": "nodemon",
     "build": "payload build",
-    "serve": "NODE_ENV=production node server.js"
+    "serve": "NODE_ENV=production node server.js",
+    "infra": "docker-compose up -d"
   },
   "dependencies": {
     "payload": "^1.0.32",
