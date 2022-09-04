@@ -1,0 +1,6 @@
+# metamash
+
+```
+yarn
+yarn dev
+```
