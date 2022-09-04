@@ -17,8 +17,8 @@ yarn infra
 yarn dev
 ```
 
-Then admin console:  http://localhost:3000/admin
-Graphql Playground:  http://localhost:3000/api/graphql-playground
+ - Admin console:  http://localhost:3000/admin
+ - Graphql Playground:  http://localhost:3000/api/graphql-playground
 
 ## Production
 
