@@ -20,7 +20,7 @@ const Countries = {
       name: 'flagEmoji',
       type: 'text',
       required: true,
-      maxLength: 1
+      maxLength: 5 // Pending PR merge
     },    
     {
       name: 'isoCode',
